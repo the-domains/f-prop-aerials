@@ -1,7 +1,7 @@
 name: F-Prop Aerials
 favicon: null
-layout_spectrum: 0.09541224339045584
-typography_spectrum: 0.48419627873227
+layout_spectrum: 1
+typography_spectrum: 0.74838
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#2a2927'
+    - '#f8f8f8'
+    - '#4b4841'
+    - '#8e8485'
+    - '#e5c7ab'
   brandStrength: 0.665093572344631
   lightness: 0.23026480991393328
   saturation: 0.6373779911082238
