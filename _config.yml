@@ -1,6 +1,6 @@
 name: F-Prop Aerials
 favicon: null
-layout_spectrum: 0.24809
+layout_spectrum: 1
 typography_spectrum: 0.74838
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#bcc2c2'
     - '#067ab7'
     - '#633d13'
-  brandStrength: 0.5
+  brandStrength: 0.25
   lightness: 0.5
   saturation: 0.6875
   rhythmicContrast: 0.75
