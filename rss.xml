@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[F-Prop Aerials]]></title>
         <description><![CDATA[F-Prop Aerials]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://f-prop.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 21:21:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 21:48:02 GMT</lastBuildDate>
+        <atom:link href="http://f-prop.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa3a9d34-683b-4c13-a618-86ecd32407aa.jpg">]]></description>
+            <link>http://f-prop.com/6bdfd4ab-7b01-4953-ae04-9176987a2405/index.html</link>
+            <guid isPermaLink="false">6bdfd4ab-7b01-4953-ae04-9176987a2405</guid>
+            <pubDate>Sat, 26 Dec 2015 21:47:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70ac7138-75e5-4dec-ad72-2a0e46acc064.jpg">]]></description>
-            <link>undefined17e699d2-9773-4bd1-ab7e-5a8729c1d2fb/index.html</link>
+            <link>http://f-prop.com/17e699d2-9773-4bd1-ab7e-5a8729c1d2fb/index.html</link>
             <guid isPermaLink="false">17e699d2-9773-4bd1-ab7e-5a8729c1d2fb</guid>
             <pubDate>Sat, 26 Dec 2015 21:20:54 GMT</pubDate>
         </item>
